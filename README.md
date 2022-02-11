@@ -13,17 +13,22 @@
 docker-compose up -d
 ```
 
+## Use
+
+> Abra o navegador e digite http://localhost:8080/
+
 ## Author
 
 👤 **Fábio dos Santos**
 
-* Twitter: [@fabioods](https://twitter.com/fabioods)
-* Github: [@fabioods](https://github.com/fabioods)
-* LinkedIn: [@fabioods](https://linkedin.com/in/fabioods)
+- Twitter: [@fabioods](https://twitter.com/fabioods)
+- Github: [@fabioods](https://github.com/fabioods)
+- LinkedIn: [@fabioods](https://linkedin.com/in/fabioods)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
